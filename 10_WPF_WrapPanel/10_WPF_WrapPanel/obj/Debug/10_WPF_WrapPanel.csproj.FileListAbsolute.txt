@@ -1,0 +1,15 @@
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\03\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\bin\Debug\10_WPF_WrapPanel.exe.config
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\03\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\bin\Debug\10_WPF_WrapPanel.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\03\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\bin\Debug\10_WPF_WrapPanel.pdb
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\03\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\obj\Debug\10_WPF_WrapPanel.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\03\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\obj\Debug\MainWindow.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\03\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\obj\Debug\App.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\03\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\obj\Debug\10_WPF_WrapPanel_MarkupCompile.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\03\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\obj\Debug\10_WPF_WrapPanel_MarkupCompile.lref
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\03\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\obj\Debug\MainWindow.baml
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\03\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\obj\Debug\10_WPF_WrapPanel.g.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\03\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\obj\Debug\_10_WPF_WrapPanel.Properties.Resources.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\03\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\obj\Debug\10_WPF_WrapPanel.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\03\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\obj\Debug\10_WPF_WrapPanel.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\03\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\obj\Debug\10_WPF_WrapPanel.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\03\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\10_WPF_WrapPanel\obj\Debug\10_WPF_WrapPanel.pdb
